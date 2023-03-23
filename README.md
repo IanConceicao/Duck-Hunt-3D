@@ -2,7 +2,7 @@
 
 I and two friends designed a three-dimensional take on the original Duck Hunt game. This project let us explore our interest for 3D graphics and animation, along with game design.
 
-Check out the game here: https://duckhunt3d.ianconceicao.com/
+Check out the game here: https://duckhunt3d.ianconceicao.com
 
 <p align="center" border="none">
 
