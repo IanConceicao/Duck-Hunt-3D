@@ -2,11 +2,11 @@
 
 I and two friends designed a three-dimensional take on the original Duck Hunt game. This project let us explore our interest for 3D graphics and animation, along with game design.
 
-Check out the game here: https://duckhunt3d.netlify.app/
+Check out the game here: https://duckhunt3d.ianconceicao.com/
 
 <p align="center" border="none">
 
-<a href="https://duckhunt3d.netlify.app/">
+<a href="https://duckhunt3d.ianconceicao.com/">
 <img src="assets/duck-hunt.jpeg">
 </a>
 </p>
